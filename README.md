@@ -1,3 +1,5 @@
+![Care Chimney logo](icone.png)
+
 # Care Chimney
 
 - 1028 West St, Annapolis, MD 21401, USA
